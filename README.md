@@ -29,5 +29,8 @@ Join us in modernizing the Domino's cashier experience with this Java Swing-base
 
 Get started by cloning the repository, and don't forget to star it if you find it helpful!
 
+#Frames
 ![Dominos Login Page](https://github.com/CASIOmax/dominos-ordering-system/blob/main/GUI%20Frames/Frame-1.png)
+![Dominos Order Selection Page](https://github.com/CASIOmax/dominos-ordering-system/blob/main/GUI%20Frames/Frame-2.gif)
+![Dominos Checkout Page](https://github.com/CASIOmax/dominos-ordering-system/blob/main/GUI%20Frames/Frame-3.png)
 
