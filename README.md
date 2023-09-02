@@ -28,3 +28,6 @@ Contributions and improvements to this project are highly welcome. Feel free to 
 Join us in modernizing the Domino's cashier experience with this Java Swing-based GUI application. Let's make the checkout process a breeze!
 
 Get started by cloning the repository, and don't forget to star it if you find it helpful!
+
+![Alt Text](https://github.com/CASIOmax/dominos-ordering-system/blob/main/GUI%20Frames/f1pizza.png)
+
