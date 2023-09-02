@@ -22,11 +22,11 @@ This repository hosts a Java GUI application that streamlines the cashier's work
 **Usage:**
 This project is designed to enhance the efficiency and accuracy of cashier operations at Domino's restaurants. It provides a user-friendly interface for taking orders, managing transactions, and delivering a seamless customer experience.
 
-![Dominos cashiers GUI Login page](C:\Users\admin\dominos-ordering-system\GUI Frames\f1pizza.png)
-
 **Contributions:**
 Contributions and improvements to this project are highly welcome. Feel free to fork the repository, make enhancements, and submit pull requests to help us make it even better!
 
 Join us in modernizing the Domino's cashier experience with this Java Swing-based GUI application. Let's make the checkout process a breeze!
 
 Get started by cloning the repository, and don't forget to star it if you find it helpful!
+
+![Dominos cashiers GUI Login page](C:\Users\admin\dominos-ordering-system\GUI Frames\f1pizza.png)
