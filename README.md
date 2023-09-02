@@ -30,5 +30,5 @@ Get started by cloning the repository, and don't forget to star it if you find i
 # Frames
 ![Dominos Login Page](https://github.com/CASIOmax/dominos-ordering-system/blob/main/GUI%20Frames/Frame-1.png)
 ![Dominos Order Selection Page](https://github.com/CASIOmax/dominos-ordering-system/blob/main/GUI%20Frames/Frame-2.gif)
-![Dominos Checkout Page](https://github.com/CASIOmax/dominos-ordering-system/blob/main/GUI%20Frames/Frame-3.png)
+![Dominos Checkout Page](https://github.com/CASIOmax/dominos-ordering-system/blob/main/GUI%20Frames/Frame-2.png)
 
