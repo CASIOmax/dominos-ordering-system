@@ -29,4 +29,4 @@ Join us in modernizing the Domino's cashier experience with this Java Swing-base
 
 Get started by cloning the repository, and don't forget to star it if you find it helpful!
 
-![Dominos cashiers GUI Login page](C:\Users\admin\dominos-ordering-system\GUI Frames\f1pizza.png)
+![Dominos cashiers GUI Login page](CASIOmax\dominos-ordering-system\GUIFrames\f1pizza.png)
