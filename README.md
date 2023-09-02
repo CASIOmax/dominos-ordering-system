@@ -1,9 +1,7 @@
 # Dominos Ordering System
 
-**Description:**
 Welcome to the Domino's Cashier GUI Repository! This Java Swing-based project brings the power of modern graphical user interfaces to the cashier's role at a Domino's restaurant.
 
-**Description Details:**
 This repository hosts a Java GUI application that streamlines the cashier's workflow at Domino's. It features three distinct frames:
 
 1. **Login:** Securely log in with authorized credentials to access the cashier interface.
@@ -29,7 +27,7 @@ Join us in modernizing the Domino's cashier experience with this Java Swing-base
 
 Get started by cloning the repository, and don't forget to star it if you find it helpful!
 
-#Frames
+# Frames
 ![Dominos Login Page](https://github.com/CASIOmax/dominos-ordering-system/blob/main/GUI%20Frames/Frame-1.png)
 ![Dominos Order Selection Page](https://github.com/CASIOmax/dominos-ordering-system/blob/main/GUI%20Frames/Frame-2.gif)
 ![Dominos Checkout Page](https://github.com/CASIOmax/dominos-ordering-system/blob/main/GUI%20Frames/Frame-3.png)
